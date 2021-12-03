@@ -1,7 +1,7 @@
 import { InertiaLink } from '@inertiajs/inertia-react';
 import React, { PropsWithChildren } from 'react';
 
-interface Props {
+interface Props{
   as?: string;
   href?: string;
 }
